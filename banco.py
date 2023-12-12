@@ -18,3 +18,6 @@ with con:
                 estado TEXT,
                 assunto TEXT 
                 )''')
+
+
+con.commit()
